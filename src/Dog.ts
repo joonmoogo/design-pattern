@@ -1,4 +1,4 @@
-import Animal from "./Animal";
+import Animal from "./Animal.ts";
 export default class Dog extends Animal{
     breed : string;
 

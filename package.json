@@ -1,14 +1,16 @@
 {
   "name": "typechain",
   "version": "1.0.0",
-  "type" : "module",
+  "type": "module",
   "description": "",
+  "typescript":"ts-node",
   "scripts": {
-    "build" : "tsc"
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ts-node": "^10.9.1",
     "typescript": "^5.1.6"
   }
 }
