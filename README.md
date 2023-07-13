@@ -1,2 +1,2 @@
 # design-pattern-typescript 
-# yes
+# to run : ts-node 'filename'.ts
