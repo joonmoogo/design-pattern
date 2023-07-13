@@ -17,6 +17,3 @@ export default class Dog extends Animal{
 }
 
 const dog = new Dog("doggy", "Retriver");
-
-dog.spaek();
-dog.speak();
