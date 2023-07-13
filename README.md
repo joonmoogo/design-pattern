@@ -1,3 +1,3 @@
 # design-pattern-typescript 
-#$ to run 
+## to run 
 ### ts-node 'filename'.ts
