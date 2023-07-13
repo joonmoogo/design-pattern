@@ -1,0 +1,19 @@
+{
+    "include": [
+        "src", 
+        // 디렉토리 src안의 문서를 참조
+    ],
+    "compilerOptions": {
+        "outDir": "build",
+        // build 폴더안에 컴파일하여 저장
+        "target": "ES6",
+        // 자바스크립트 버전
+        "lib": ["ES6","DOM"],
+        // DOM 사용
+        "strict": false,
+        "allowJs": true,
+
+
+        
+    }
+}
