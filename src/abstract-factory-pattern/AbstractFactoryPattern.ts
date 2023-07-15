@@ -1,7 +1,7 @@
-import Employee from "./Employee";
-import Manager from "./Manager";
-import Staff from "./Staff";
-import { Work, Professional, Novice } from "./Work";
+import Employee from "./Employee.ts";
+import Manager from "./Manager.ts";
+import Staff from "./Staff.ts";
+import { Work, Professional, Novice } from "./Work.ts";
 
 interface EmployeeFactory{
     getEmployeeInstance() : Employee|undefined

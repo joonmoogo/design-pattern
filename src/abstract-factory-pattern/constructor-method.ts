@@ -33,5 +33,5 @@ console.log(onee?.name);
 console.log(twoo?.name);
 console.log(threee?.name)
 
-const managerFacotry = new ManagerFactory();
-const staffFactory = new StaffFactory();
+// const managerFacotry = new ManagerFactory();
+// const staffFactory = new StaffFactory();
