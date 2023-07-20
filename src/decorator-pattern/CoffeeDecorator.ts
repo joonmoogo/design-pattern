@@ -33,3 +33,9 @@ console.log(coffee.getDescription());
 coffee = new MilkDecorator(coffee);
 console.log(coffee.cost());
 console.log(coffee.getDescription());
+coffee = new SugarDecorator(coffee);
+console.log(coffee.cost());
+console.log(coffee.getDescription());
+coffee = new MilkDecorator(coffee);
+console.log(coffee.cost());
+console.log(coffee.getDescription())
